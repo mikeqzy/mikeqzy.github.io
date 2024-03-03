@@ -2,8 +2,8 @@ main:
 
   - title: "3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting"
     authors: <strong>Zhiyin Qian</strong>, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang
-    conference_short: arXiv
-    conference: arXiv preprint, 2023.
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024. 
     pdf: https://arxiv.org/abs/2312.09228.pdf
     code: https://github.com/mikeqzy/3dgs-avatar-release
     page: https://neuralbodies.github.io/3DGS-Avatar/index.html
